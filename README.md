@@ -18,11 +18,12 @@
 #### 🫶About Ramatulahi ❤️
 Here are some basic things to know about Ramatulahi 👽👳🏾‍♂️;
 
-- 🔭Currently focused on mastering Data Structures and Algorithms (DSA).
+- 🔭Currently focused on mastering Python, Data Structures and Algorithms (DSA).
 - 🌱Exploring the vast field of Software Engineering.
 - 📙I'm currently learning:
-   - Data Science
-   - Cybersecurity
+   - Python
+   - Product Management 
+   - Full Stack Development (FrontEnd and Backend)
 - 👯 Open to collaborations on my open-source projects.
 - 🤔 Seeking guidance on contributinhg to open-source initiatives.
 - 💬 Feel free to ask me about anything!🌚.
