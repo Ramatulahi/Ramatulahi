@@ -130,7 +130,6 @@ Detailed product case studies, PRDs, and system documentation are available in m
 <h3>📫 Contact</h3>
 <ul>
   <li>Email: <strong>ramatalabi86@gmail.com</strong></li>
-  <li>Phone: <strong>+234 816 842 2363</strong></li>
   <li>LinkedIn: <a href="https://www.linkedin.com/in/alabi-ramat/">alabi-ramat</a></li>
 </ul>
 
