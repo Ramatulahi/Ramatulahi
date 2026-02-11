@@ -1,54 +1,141 @@
 <h1>Hello World 👋🏾</h1>
 
-<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alabi-ramat" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/alabi-ramat/">Ramatulahi Alabi</a></div>
-    
-<h1>Welcome To Ramatulahi Profile👽</h1>
+<div align="right" class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="alabi-ramat" data-version="v1">
+  <a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/alabi-ramat/">Ramatulahi Alabi</a>
+</div>
 
-###   **What's my current role in tech?** </h2>
-       { softWare Engineer } dedicated to honing my skills and contributing to the tech community.
+<h1>Welcome to Ramatulahi’s GitHub 👽</h1>
 
-####🫱🏿‍🫲🏿 Connect with me 
-<a href="https://www.linkedin.com/in/alabi-ramat/"> <img src="images/linkedin.png" width="60" /> </a>
-<a href="https://x.com/alabi_rama82492?s=08/"> <img src="images/twitter.png" width="60" /> </a>
-<a href="https://www.instagram.com/ramat_ulahi/"> <img src="images/ig.png" width="70" /> </a>
-<!--<a href=""><img src="" width=""></a> -->
+<h3>Product Manager | Technical Product Manager (TPM)</h3>
 
-<img align="right" alt="Coding" width="370" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<p>
+Building user-centered, data-informed products across <strong>AI</strong>, <strong>B2B SaaS</strong>, and <strong>early-stage startups</strong>.
+</p>
 
-#### 🫶About Ramatulahi ❤️
-Here are some basic things to know about Ramatulahi 👽👳🏾‍♂️;
+<hr />
 
-- 🔭Currently focused on mastering Python, Data Structures and Algorithms (DSA).
-- 🌱Exploring the vast field of Software Engineering.
-- 📙I'm currently learning:
-   - Python
-   - Product Management 
-   - Full Stack Development (FrontEnd and Backend)
-- 👯 Open to collaborations on my open-source projects.
-- 🤔 Seeking guidance on contributinhg to open-source initiatives.
-- 💬 Feel free to ask me about anything!🌚.
-- 📫 Reach me at: Email: ramatalabi86@gmail.com, Phone: +2348168422363,
-- 😄 Pronouns: She/Her.
-- ⚡ Fun fact: I'm passionate about Fashion.
+<h3>🫱🏿‍🫲🏿 Connect with Me</h3>
+<a href="https://www.linkedin.com/in/alabi-ramat/">
+  <img src="images/linkedin.png" width="55" />
+</a>
+<a href="https://x.com/alabi_rama82492?s=08">
+  <img src="images/twitter.png" width="55" />
+</a>
+<a href="https://www.instagram.com/ramat_ulahi/">
+  <img src="images/ig.png" width="65" />
+</a>
 
-#### 💻 My Core Languages
-<code><img src="images/python.png" width="60" title="Python" /></code>
-<code><img src="images/cpp.png" width="60" title="C++" /></code>
+<img align="right" alt="Product Thinking" width="360" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
-#### 📙Frameworks/Libraries I Use
-- Django (Python): A high-level web framework that encourages rapid development and clean, pragmatic design.
-  
-#### ⚙️Tools I Use
-<code><img src="images/visualstudio.svg" width="60" title="Visual Studio Code" /></code>
-<code><img src="images/github.jpg" width="60" title="GitHub" /></code>
-<code><img src="images/git.jpg" width="60" title="Git" /></code>
-<code><img src="images/tinkercad.png" width="60" title="Tinkercad" /></code>
+<hr />
 
----
-Thank you for visiting my profile! I look forward to connecting and collaborating with you.
+<h3>🫶 About Me</h3>
 
-<!-- #### Lifestyle
-<!-- ![pc](https://user-images.githubusercontent.com/105937740/186015907-bd8b7db8-f875-454b-bf1a-36177129aa42.gif) -->
-<!-- <img align="center" alt="Coding" width="800s" src="images/bring-deals.JPG"/> -->
+<p>
+I’m a <strong>Product Manager with a strong technical foundation</strong>, experienced in guiding products from 
+<strong>problem discovery → MVP delivery → iteration</strong>.
+</p>
 
+<p>
+I work closely with engineers, designers, and stakeholders to translate <strong>user needs and technical constraints</strong> into 
+clear product requirements, roadmaps, and shipped outcomes.
+</p>
 
+<p>
+My background in software development enables me to read technical documentation, understand system trade-offs, 
+and collaborate effectively with engineering teams on feasibility, scope, and delivery.
+</p>
+
+<hr />
+
+<h3>🧠 What I Work On</h3>
+<ul>
+  <li>Product discovery & user research</li>
+  <li>MVP definition & feature prioritisation</li>
+  <li>Writing PRDs, user stories & acceptance criteria</li>
+  <li>Roadmapping & backlog management</li>
+  <li>Technical product collaboration (TPM)</li>
+  <li>Early-stage & startup product execution</li>
+</ul>
+
+<hr />
+
+<h3>🧩 Product Domains</h3>
+<ul>
+  <li>AI-enabled products</li>
+  <li>B2B SaaS platforms</li>
+  <li>Creator economy & media technology</li>
+  <li>Cybersecurity products</li>
+  <li>Education & community platforms</li>
+</ul>
+
+<hr />
+
+<h3>🛠️ Tools & Ways I Work</h3>
+
+<strong>Product & Delivery</strong>
+<ul>
+  <li>Notion</li>
+  <li>Jira</li>
+  <li>Linear</li>
+  <li>Trello</li>
+  <li>Miro</li>
+  <li>Figma</li>
+</ul>
+
+<strong>Technical & Collaboration</strong>
+<ul>
+  <li>GitHub</li>
+  <li>Git</li>
+  <li>API documentation</li>
+  <li>System architecture reviews</li>
+</ul>
+
+<strong>Languages (Working Knowledge)</strong>
+<ul>
+  <li>Python</li>
+  <li>SQL (basic)</li>
+</ul>
+
+<p>
+I don’t code daily, but I understand how systems work and collaborate closely with engineers on feasibility, 
+trade-offs, and delivery.
+</p>
+
+<hr />
+
+<h3>📂 Selected Product Work</h3>
+<ul>
+  <li><strong>GradLink AI</strong> — AI-powered education product (Founder & PM)</li>
+  <li><strong>FairPlay Africa</strong> — B2B SaaS anti-piracy platform (PM & TPM)</li>
+  <li><strong>Sentinel</strong> — Cybersecurity product concept (Product Lead)</li>
+  <li><strong>DrainGuard AI</strong> — AI monitoring concept</li>
+</ul>
+
+<p>
+Detailed product case studies, PRDs, and system documentation are available in my portfolio.
+</p>
+
+<hr />
+
+<h3>🤝 Open To</h3>
+<ul>
+  <li>Product Manager / Technical Product Manager roles</li>
+  <li>Early-stage startup teams</li>
+  <li>Product collaboration & community initiatives</li>
+</ul>
+
+<hr />
+
+<h3>📫 Contact</h3>
+<ul>
+  <li>Email: <strong>ramatalabi86@gmail.com</strong></li>
+  <li>Phone: <strong>+234 816 842 2363</strong></li>
+  <li>LinkedIn: <a href="https://www.linkedin.com/in/alabi-ramat/">alabi-ramat</a></li>
+</ul>
+
+<hr />
+
+<p>
+✨ Thanks for stopping by. I enjoy building thoughtful products and collaborating with people who care about impact.
+</p>
